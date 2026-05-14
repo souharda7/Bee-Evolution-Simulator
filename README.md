@@ -78,4 +78,4 @@ After the simulation concludes, Matplotlib generates three distinct graphs to he
    
 3. Bee Preferences over Time: A multi-line chart showing the distribution of the population's dietary preferences (Quality 1 vs. 5 vs. 10). This visualizes natural selection as the population adapts to prefer higher-quality food sources.
 
-For a more detailed report refer to this doc: [Bee Simulator Report.pdf](https://github.com/user-attachments/files/27755725/Bee.Simulator.Report.pdf)
+For a more detailed report refer to this doc: [Report.docx](https://github.com/user-attachments/files/27755810/Report.docx)
